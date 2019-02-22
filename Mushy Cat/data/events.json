@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"startup","temp":"","event-type":"1","actions":[{"gameName":"with Cat Nip!","gameLink":"","name":"Set Bot Game"}]},{"name":"always","temp":"1","event-type":"3","actions":[{"server":"0","varName":"","nickname":"Mushy Cat","name":"Set Bot Nickname"}]}]

@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"help","permissions":"NONE","restriction":"0","actions":[{"channel":"0","varName":"","message":"```\nhelp - I dont know, What does it do?\ninvite - Invite the bot to your server!\nMORE COMING SOON!\n```","storage":"0","varName2":"","name":"Send Message"}]},{"name":"invite","permissions":"NONE","restriction":"0","actions":[{"channel":"0","varName":"","message":"Invite the Mushy Cat bot! **http://bit.ly/MushyCat**","storage":"0","varName2":"","name":"Send Message"}]}]
